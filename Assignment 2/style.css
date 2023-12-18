@@ -1,0 +1,39 @@
+h2 {
+    margin: 0;
+}
+.header {
+    height: 100px;
+    width: 100%;
+    color: white;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(202, 96, 202);
+}
+.content {
+    height: 550px;
+    padding: 20px;
+    background-color: lightgray;
+}
+.footer {
+    height: 50px;
+    background-color: rgb(78, 0, 78);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
